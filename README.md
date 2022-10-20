@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-vpsj0uSK8g)
+- Live Site URL: (https://alisonfort.github.io/fm-profile-card-component/)
 
 ### Built with
 
